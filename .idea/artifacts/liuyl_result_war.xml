@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="liuyl_result:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="result-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="liuyl_result:war exploded" />
+    </root>
+  </artifact>
+</component>
